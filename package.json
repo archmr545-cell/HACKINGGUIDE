@@ -1,0 +1,10 @@
+{
+  "name": "hacking-website",
+  "version": "1.0.0",
+  "description": "Static hacking guide website.",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo \"This project is a static website. Open index.html in a browser or use a static server.\""
+  },
+  "dependencies": {}
+}
